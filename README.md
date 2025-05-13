@@ -39,7 +39,7 @@ I am actively pursuing further certifications and continuously updating my knowl
 
 ### 🚀 Projects & Contributions:
 
-* **[[Link to your Project 1 Repo](https://github.com/abiodun01-man/HTTP-PACKET-ANALYSIS-USING-WIRESHARK-PROJECT)]: [HTTP-PACKET-ANALYSIS-USING-WIRESHARK-PROJECT]**
+* **[[View Repo](https://github.com/abiodun01-man/HTTP-PACKET-ANALYSIS-USING-WIRESHARK-PROJECT)]: [HTTP-PACKET-ANALYSIS-USING-WIRESHARK-PROJECT]**
     * *Description:* This repository contains a collection of projects for understanding HTTP Packet Analysis using Wireshark.
 
 1: How to CAPTURE NETWORK TRAFFIC :
@@ -59,7 +59,7 @@ ii: Identify the packets related to the login process. Look for the POST request
 i: Enter user name and password and select Post/userinfo. php and it will give you detailed information.
 
 ii: Examine the HTTP POST request payload for any parameters containing logininformation. The username and password may be encoded or encrypted.]
-* **[[Link to your Project 2 Repo](https://github.com/abiodun01-man/Vulnerability-assessment-report-)]: [Vulnerability-assessment-report-)"]**
+* **[[View Repo](https://github.com/abiodun01-man/Vulnerability-assessment-report-)]: [Vulnerability-assessment-report-)"]**
     * *Description:* This repository contains a collection of tools for Vulnerability Assessment Report.
 
 Focusing on how to scan the target with tools; These following tools were used for the vulnerability assessment:
@@ -77,5 +77,6 @@ I'm always open to discussing cybersecurity, networking, and new technologies. F
 
 * [www.linkedin.com/in/akogunabiodun]
 * [akogunabiodun123@gmail.com]
+
 
 ---
